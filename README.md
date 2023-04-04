@@ -9,7 +9,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/Python-Getting-Started-with-the-Language.git
+https://github.com/eucesar/Cpp-Getting-Started.git
 ```
 
 ## Cesar
